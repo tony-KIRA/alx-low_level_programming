@@ -1,2 +1,2 @@
 #!/bin/bash
-an asambler in C
+a name in C
