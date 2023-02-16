@@ -1,2 +1,2 @@
 #!/bin/bash
-a compiler in C
+an asambler in C
