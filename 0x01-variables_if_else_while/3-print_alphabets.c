@@ -2,7 +2,7 @@
 
 /**
  * main - print alphabet in upper and lower
- * Return; zero
+ * Return: zero
  */
 
 int main(void)
