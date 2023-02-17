@@ -1,1 +1,1 @@
-variables, if, else, while
+assign a random number to the variable n
