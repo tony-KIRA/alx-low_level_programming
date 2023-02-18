@@ -2,7 +2,7 @@
 
 /** 
  * main - program that prints all possible notions
- * Return: zero 
+ * Return: zero
  */
 
 int main(void)
