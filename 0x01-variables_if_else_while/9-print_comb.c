@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /** 
- * main - program that prints all possible
- * break;
- * nations of single-digit numbers.
+ * main - program that prints all possible notions
  * Return: zero 
  */
 
