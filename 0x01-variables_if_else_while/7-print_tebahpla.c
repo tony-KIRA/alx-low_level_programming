@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/** main -  a program that prints the lowercase alphabet in reverse
+/**
+ * main -  a program that prints the lowercase alphabet in reverse
  * Return: zerro
  */
 
