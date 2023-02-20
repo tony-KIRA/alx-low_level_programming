@@ -1,12 +1,14 @@
 #include <stdio.h>
 
-/** main - prints digits of base 10
+/**
+ * main - prints digits of base 10
  * Return: zero 
  */
 
 int main(void)
 {
 	int i;
+	
 
 	for (i = 0; i <= 9; i++)
 		printf("%d", i);
