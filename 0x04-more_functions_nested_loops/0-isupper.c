@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
- * _isupper - checks for uppercase characters
+ * main - print putchar
  *
- * @c: input character
- * Return: 1 if uppercase, 0 otherwise
+ * Return: 0 on success
  */
 
-int _isupper(int c)
+int main(void)
 {
+	char h[] = "_putchar";
 	int i;
 
-	if (c >= 65 && c <= 90)
-		i = 1;
-	else 
-		i = 0;
-	return (i);
+	for (i = 0; h[i] != '\0'; i++)
+	{
+		_putchar(h[i]);
+	}
+	_putchar('\n');
+	return (0);
 }
